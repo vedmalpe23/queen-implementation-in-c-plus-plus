@@ -78,28 +78,3 @@ display()
 
 Step 6: End
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-1
-@TarushiV26
-TarushiV26 Tarushi Verma
-Languages
-C++
-100.0%
-Footer
-© 2026 Git
